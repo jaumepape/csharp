@@ -1,0 +1,15 @@
+C:\Users\jaume\src\csharp\tutorial\tutorial\bin\Debug\net9.0\tutorial.exe
+C:\Users\jaume\src\csharp\tutorial\tutorial\bin\Debug\net9.0\tutorial.deps.json
+C:\Users\jaume\src\csharp\tutorial\tutorial\bin\Debug\net9.0\tutorial.runtimeconfig.json
+C:\Users\jaume\src\csharp\tutorial\tutorial\bin\Debug\net9.0\tutorial.dll
+C:\Users\jaume\src\csharp\tutorial\tutorial\bin\Debug\net9.0\tutorial.pdb
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.AssemblyInfo.cs
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.sourcelink.json
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.dll
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\refint\tutorial.dll
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.pdb
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\tutorial.genruntimeconfig.cache
+C:\Users\jaume\src\csharp\tutorial\tutorial\obj\Debug\net9.0\ref\tutorial.dll
